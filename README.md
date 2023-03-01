@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cloud and Automation
 - 🌱 I’m currently learning ... Terraform , Jenkins , Puppet , Chef 
 - 💞️ I’m looking to collaborate on ...Cloud technologies
-- 📫 How to reach me ... (u.b.maity@gmail.com)
+- 📫 How to reach me ... LINKTR.EE/UB_MAITY
 
 <!---
 ubmaity/ubmaity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
